@@ -78,7 +78,7 @@ article {
 	display: inline-block;
 	vertical-align: top;
 	margin: 10px 10px;
-	width: 258px;
+	width: 240px;
 }
 
 article.tabla-gris {
@@ -122,6 +122,34 @@ a.btn-try {
 	margin: 20px;
 	font-size: 23px;
 }
+
+.borde-gris {
+	background-color: #fff;
+	border: 1px solid #e6e6e6;
+	padding: 10px;
+	font-size: 15px;
+	text-align: left;
+}
+
+.ion-ios-email-outline, .ion-university, .ion-chatbubbles, .ion-plus-round {
+	font-size: 20px;
+	padding: 7px 7px 7px;
+	color: #595959;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

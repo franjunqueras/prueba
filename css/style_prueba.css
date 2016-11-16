@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,400i,700');
+
+body {
+	font-size: 12px;
+	padding: 0;
+	margin: 0;
+	font-family: 'Merriweather', serif;
+}
+
+header {
+	border-bottom: 1px solid #ccc;
+}
+
+figure {
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 21px;
+}
+
+img.imagen-logo{
+	width: 300px;
+} 
+
+figcaption {
+	display: none;
+}
+
+nav ul li {
+	display: inline-block;
+	vertical-align: top;
+	margin: 10px 10px;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: top;
+	margin: 20px 60px 20px 0;
+	float: right;
+}
+
+a {
+	text-decoration: none;
+	font-size: 16px;
+}
+
+a.boton-gris {
+	color: grey;
+}
+
+a.boton-azul {
+	color: #0066cc;
+}
+
+a.boton-naranjo {
+	padding: 10px;
+	background-color: orange;
+	color: white;
+	border-radius: 4px;
+	-o-border-radius: 4px;
+	-ms-border-radius: 4px;
+	-webkit-border-radius: 4px;
+
+}
+
+h1 {
+	font-size: 38px;
+	text-align: center;
+	margin-top: 40px;
+	font-weight: 400;
+}
+
+section {
+	width: 100%;
+	text-align: center;
+}
+
+article {
+	display: inline-block;
+	vertical-align: top;
+	margin: 10px 10px;
+	width: 258px;
+}
+
+article.tabla-gris {
+	background-color: #e6e6e6;
+}
+
+article.tabla-celeste {
+	background-color: #cceeff;
+}
+
+h3 {
+	padding: 20px 20px 10px;
+	font-size: 28px;
+	font-weight: 400;
+	margin: 0;
+}
+
+p.valor {
+	color: #005580;
+	font-size: 50px;
+	margin: 0;
+	padding: 10px;
+
+}
+
+p.texto-italic {
+	padding: 5px 30px;
+	margin: 0;
+	font-size: 15px;
+}
+
+a.btn-try {
+	padding: 15px;
+	color: black;
+	background-color: #ffcc00;
+	border-radius: 4px;
+	-o-border-radius: 4px;
+	-ms-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	display: inline-block;
+	margin: 20px;
+	font-size: 23px;
+}
+
+
+
+
+
+
